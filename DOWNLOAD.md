@@ -1,6 +1,6 @@
 Dataset **SKU110K** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/c/J/at/sAr3FuhaRjvILLRDmG1kD3bA3clOaDLHASVW0wXueNzQnuwa0oNLdBCO9Gdzmu2UrwJQucGoGzoIPPblXXcU6yKG9xq6vnV1sEodsVfndIMMub4S1vvo1dsH1YE5.tar)
+ [Download](https://www.dropbox.com/scl/fi/v0sst6h1xfxwoh9wtpcah/sku110k-DatasetNinja.tar?rlkey=l14bi3e3blzfr13eqeftjdaun&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
