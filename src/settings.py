@@ -15,7 +15,7 @@ from dataset_tools.templates import (
 ##################################
 PROJECT_NAME: str = "SKU110K"
 PROJECT_NAME_FULL: str = "SKU110K: Densely Packed Scenes for 110K Categories of Retail Items"
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
@@ -70,9 +70,9 @@ AUTHORS: Optional[List[str]] = [
 AUTHORS_CONTACTS: Optional[List[str]] = ["eg4000@gmail.com"]
 
 ORGANIZATION_NAME: Optional[Union[str, List[str]]] = [
-    "Bar-Ilan University",
-    "Tel Aviv University",
-    "Trax Retail",
+    "Bar-Ilan University, Israel",
+    "Tel Aviv University, Israel",
+    "Trax Retail, Singapore",
     "The Open University of Israel",
 ]
 ORGANIZATION_URL: Optional[Union[str, List[str]]] = [
